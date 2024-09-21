@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "Matheus Avelino",
+      "profilePic": "images/default-avatar.jpg"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1726875269215",
+      "userId": "1",
+      "content": "Primeiro dia da minha nova vida!!\nEstou muito ansioso para começar meu novo curso. Queria que todos vocês acompanhassem... \nMe contem aí suas expectativas!",
+      "comments": [
+        "Muito animado em acompanhar você!",
+        "Vai avisando a gente",
+        "Felicidades pra você! Mãe te ama!",
+        "Manda um salve ae"
+      ],
+      "likes": 1
+    }
+  ]
+}
